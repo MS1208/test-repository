@@ -1,1 +1,2 @@
-puts("Hello WOrld !!!")
+puts"Hello World !!!"
+puts"Hello RUby !!!"
